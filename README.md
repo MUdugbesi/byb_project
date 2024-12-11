@@ -22,7 +22,7 @@ Hi, I'm Marvelous Udugbesi, a dedicated and passionate Full Stack Software Engin
 
 **Talking about being personal**
 
-- 🔭 I’m currently work as a Registered Nurse in the United Kingdom.
+- 🔭 I currently work as a Registered Nurse in the United Kingdom.
 - 🎯 Intermediate goal - carer change into tech industry.
 - 🔭 I'm presently undergoing a skill web developement bootcamp programme powered by hyperiondev with support from DFE.
 - 🌱 I’m currently learning Nextjs.
